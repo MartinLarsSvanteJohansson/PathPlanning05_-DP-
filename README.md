@@ -4,7 +4,9 @@ Solving path planning problems with dynamic programming.
 
 
 #### Problem Statement
-Given a **width** x **height** road network. Each edge represents a road, and each vertex a road intersection in cartesian coordinates.
+Given a **width** x **height** road network. 
+
+Each edge represents a road, and each vertex a road intersection in cartesian coordinates.
 
 Find the number of paths going from (**0**,**0**) to (**width**, **height**) that uses exactly **width**+**height** number of roads. 
 
