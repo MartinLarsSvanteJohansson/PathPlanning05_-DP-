@@ -13,7 +13,7 @@ Find the number of paths going from (**0**,**0**) to (**width**, **height**) tha
 ##### Restrictions 
 Some roads are blocked and can not be traversed and can not be part of the final path. 
 
-For example: Blocked input **{ "0 0 0 1", "4 4 5 4" }** represents a blockage on the road between vertices (**0**,**0**) and (**0**,**1**) as well as on the road between vertices (**4**,**4**) (**5**,**4**) (undirected graph assumed and a blockage for both directions).
+For example: Blocked input **{ "0 0 0 1", "4 4 5 4" }** represents a blockage on the road between vertices (**0**,**0**) and (**0**,**1**) as well as on the road between vertices (**4**,**4**) and (**5**,**4**) (undirected graph assumed and a blockage for both directions).
 
 
 #### Resulting output
